@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b1c84b0d2cdf063cd5921b1253e652a5:1/1$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="background" x="2" y="2" width="320" height="480"/>
+    <SubTexture name="start_button" x="324" y="61" width="149" height="57" frameX="-1" frameY="-1" frameWidth="151" frameHeight="59"/>
+    <SubTexture name="stop_button" x="324" y="2" width="149" height="57" frameX="-1" frameY="-1" frameWidth="151" frameHeight="59"/>
+    <SubTexture name="walking_guy0001" x="324" y="251" width="68" height="135" frameX="-6" frameY="-2" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0002" x="324" y="120" width="72" height="129" frameX="0" frameY="-4" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0003" x="394" y="259" width="66" height="133" frameX="-10" frameY="0" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0004" x="450" y="394" width="60" height="131" frameX="-18" frameY="-1" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0005" x="388" y="394" width="60" height="133" frameX="-13" frameY="-2" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0006" x="450" y="527" width="58" height="133" frameX="-12" frameY="-4" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0007" x="324" y="388" width="62" height="135" frameX="-14" frameY="0" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0008" x="398" y="120" width="70" height="137" frameX="-8" frameY="0" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0009" x="324" y="251" width="68" height="135" frameX="-6" frameY="-2" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0010" x="324" y="120" width="72" height="129" frameX="0" frameY="-4" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0011" x="394" y="259" width="66" height="133" frameX="-10" frameY="0" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0012" x="450" y="394" width="60" height="131" frameX="-18" frameY="-1" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0013" x="388" y="394" width="60" height="133" frameX="-13" frameY="-2" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0014" x="450" y="527" width="58" height="133" frameX="-12" frameY="-4" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0015" x="324" y="388" width="62" height="135" frameX="-14" frameY="0" frameWidth="80" frameHeight="139"/>
+    <SubTexture name="walking_guy0016" x="398" y="120" width="70" height="137" frameX="-8" frameY="0" frameWidth="80" frameHeight="139"/>
+</TextureAtlas>
